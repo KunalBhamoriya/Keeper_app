@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/Keeper_app/static/js/main.eb22dbc6.js",
-    "index.html": "/github.io/Keeper_app/index.html",
-    "main.eb22dbc6.js.map": "/github.io/Keeper_app/static/js/main.eb22dbc6.js.map"
+    "main.js": "/Keeper_app/static/js/main.eb22dbc6.js",
+    "index.html": "/Keeper_app/index.html",
+    "main.eb22dbc6.js.map": "/Keeper_app/static/js/main.eb22dbc6.js.map"
   },
   "entrypoints": [
     "static/js/main.eb22dbc6.js"
