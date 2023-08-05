@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "//github.com/KunalBhamoriya/Keeper_app/static/js/main.eb22dbc6.js",
+    "index.html": "//github.com/KunalBhamoriya/Keeper_app/index.html",
+    "main.eb22dbc6.js.map": "//github.com/KunalBhamoriya/Keeper_app/static/js/main.eb22dbc6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb22dbc6.js"
+  ]
+}
